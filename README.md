@@ -64,3 +64,9 @@ Writing a blog post
 Blogging is very easy with Jekyll. Browse to `_posts` directory, copy the Markdown file `_TEMPLATE.md` and rename that file following the file name convention: `YEAR-MONTH-DAY-title.md`. Then open the file you renamed and follow the steps there to complete writing a blog post.
 
 Make sure to not include special characters in the file name. The blog entry's publishing date is automatically extracted from the file name.
+Here are some great ways to choose a topic that will resonate with your audience.
+
+    Pick something you’re passionate about. When you care about your topic, you’ll write about it in a more powerful, emotionally expressive way.
+    Pick something your readers are passionate about. What does your audience care about? It’s important to know so you can engage them. And don’t be afraid to go negative (e.g. Ten “Healthy” Foods You Should Always Avoid). The human negativity bias is legit.
+    Get inspired by research. Some of the best articles I’ve written germinated when I grew curious about a subject and decided to explore it.
+    Get inspired by other writers. No, I don’t mean you should plagiarize or blatantly copy ideas. 
